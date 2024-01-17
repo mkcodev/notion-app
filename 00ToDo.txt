@@ -1,0 +1,6 @@
+minute 17: drizzle connect
+
+minute 20-27: SQL editor
+
+minute 28: shadcn install
+min 33: providers
